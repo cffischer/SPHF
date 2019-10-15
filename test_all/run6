@@ -1,0 +1,9 @@
+
+rm hf_param
+rm bsw.*
+sphf_all << EOF > out6
+Mg 1D  12
+[Ne]
+3s(1)3d(1)
+all
+EOF

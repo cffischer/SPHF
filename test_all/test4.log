@@ -1,0 +1,76 @@
+
+
+       HARTREE-FOCK WAVE FUNCTIONS FOR      Be   1S  Z =  4.0
+
+                Core =  1s(   2)
+       Configuration =  2s( 2.0)
+
+       Level 1: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.25000
+          Spline order (ks)                       4
+          Size of basis  (ns)                    34
+          Maximum radius                     103.40
+          SCF convergence tolerance        1.00D-12
+          Orbital convergence tolerance    1.00D-06
+          Orbital tail cut-off             1.00D-06
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  2.060D-12
+            Orbital diff. =  9.566D-07
+            Tail cut-off  =  1.395D-01
+
+
+
+                        ATOM     Be   TERM    1S 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s    -4.73266874    -7.94212001     6.78537498    0.385     14.660039      20       6
+  2s    -0.30926948    -1.58895958     0.50112687    1.735      2.672060      26      15
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s      17.102532       0.000000     3.681874  0.41499434    0.232955
+  2s       0.568176       0.000000     0.522522  2.64941722    8.426453
+
+
+       TOTAL ENERGY (a.u.)           -14.573017876582140
+                     Kinetic          14.573003703597930
+                     Potential       -29.146021580180070
+                     Ratio            -2.000000972550648
+
+       Level 2: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.12500
+          Spline order (ks)                       6
+          Size of basis  (ns)                    54
+          Maximum radius                      31.27
+          SCF convergence tolerance        1.00D-15
+          Orbital convergence tolerance    1.00D-09
+          Orbital tail cut-off             1.00D-09
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  8.533D-16
+            Orbital diff. =  1.918D-14
+            Tail cut-off  = -1.016D-08
+
+
+
+                        ATOM     Be   TERM    1S 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s    -4.73266990    -7.94212281     6.78538433    0.385     14.669719      40      11
+  2s    -0.30926955    -1.58896091     0.50112725    1.735      2.673375      53      29
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s      17.125124       0.000000     3.681877  0.41499411    0.232955
+  2s       0.568735       0.000000     0.522522  2.64941384    8.426431
+
+
+       TOTAL ENERGY (a.u.)           -14.573023168312970
+                     Kinetic          14.573023168312400
+                     Potential       -29.146046336625370
+                     Ratio            -2.000000000000039

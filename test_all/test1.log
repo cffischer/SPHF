@@ -1,0 +1,72 @@
+
+
+       HARTREE-FOCK WAVE FUNCTIONS FOR      He   1S  Z =  2.0
+
+                Core =
+       Configuration =  1s( 2.0)
+
+       Level 1: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.25000
+          Spline order (ks)                       4
+          Size of basis  (ns)                    32
+          Maximum radius                     132.35
+          SCF convergence tolerance        1.00D-12
+          Orbital convergence tolerance    1.00D-06
+          Orbital tail cut-off             1.00D-06
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  6.207D-16
+            Orbital diff. =  3.353D-07
+            Tail cut-off  =  1.979D-01
+
+
+
+                        ATOM     He   TERM    1S 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s    -0.91795528    -1.94372375     1.43083784    0.382      4.749880      20       6
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s       1.795376       0.000000     1.687281  0.92727389    1.184830
+
+
+       TOTAL ENERGY (a.u.)            -2.861679029766641
+                     Kinetic           2.861675675314009
+                     Potential        -5.723354705080650
+                     Ratio            -2.000001172198744
+
+       Level 2: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.12500
+          Spline order (ks)                       6
+          Size of basis  (ns)                    42
+          Maximum radius                      15.22
+          SCF convergence tolerance        1.00D-15
+          Orbital convergence tolerance    1.00D-09
+          Orbital tail cut-off             1.00D-09
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  1.552D-14
+            Orbital diff. =  6.302D-15
+            Tail cut-off  =  8.170D-08
+
+
+
+                        ATOM     He   TERM    1S 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s    -0.91795556    -1.94372443     1.43084000    0.382      4.753296      41      12
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s       1.797959       0.000000     1.687282  0.92727340    1.184828
+
+
+       TOTAL ENERGY (a.u.)            -2.861679995611834
+                     Kinetic           2.861679995611860
+                     Potential        -5.723359991223694
+                     Ratio            -1.999999999999991

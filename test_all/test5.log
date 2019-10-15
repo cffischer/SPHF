@@ -1,0 +1,80 @@
+
+
+       HARTREE-FOCK WAVE FUNCTIONS FOR      F    2P  Z =  9.0
+
+                Core =  1s(   2)  2s(   2)
+       Configuration =  2p( 5.0)
+
+       Level 1: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.25000
+          Spline order (ks)                       4
+          Size of basis  (ns)                    36
+          Maximum radius                      71.80
+          SCF convergence tolerance        1.00D-12
+          Orbital convergence tolerance    1.00D-06
+          Orbital tail cut-off             1.00D-06
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  7.148D-16
+            Orbital diff. =  6.125D-09
+            Tail cut-off  =  2.877D-05
+
+
+
+                        ATOM     F    TERM    2P 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s   -26.38275098   -40.41818964    37.25500730    0.465     51.675567      24       6
+  2s    -1.57253298    -8.94929452     4.09845169    3.007     11.962528      26      15
+  2p    -0.73001850    -8.10460094     3.34046532    4.391     20.425802      27      14
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s     212.500832       0.000000     8.630355  0.17574710    0.041612
+  2s      11.387702       0.000000     1.449750  1.00109574    1.216569
+  2p       0.000000       7.545116     1.271674  1.08478610    1.543522
+
+
+       TOTAL ENERGY (a.u.)           -99.409316703737190
+                     Kinetic          99.409244548406040
+                     Potential      -198.818561252143200
+                     Ratio            -2.000000725841259
+
+       Level 2: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.12500
+          Spline order (ks)                       6
+          Size of basis  (ns)                    56
+          Maximum radius                      17.59
+          SCF convergence tolerance        1.00D-15
+          Orbital convergence tolerance    1.00D-09
+          Orbital tail cut-off             1.00D-09
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  2.573D-15
+            Orbital diff. =  6.543D-15
+            Tail cut-off  =  4.096D-08
+
+
+
+                        ATOM     F    TERM    2P 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s   -26.38276022   -40.41820394    37.25505648    0.465     51.707581      50      11
+  2s    -1.57253475    -8.94930380     4.09845822    3.007     11.967378      53      27
+  2p    -0.73001753    -8.10460114     3.34046400    4.391     20.605314      55      27
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s     212.764209       0.000000     8.630362  0.17574700    0.041612
+  2s      11.396938       0.000000     1.449751  1.00109428    1.216566
+  2p       0.000000       7.545112     1.271674  1.08478614    1.543522
+
+
+       TOTAL ENERGY (a.u.)           -99.409349386692920
+                     Kinetic          99.409349386692770
+                     Potential      -198.818698773385700
+                     Ratio            -2.000000000000001

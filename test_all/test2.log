@@ -1,0 +1,76 @@
+
+
+       HARTREE-FOCK WAVE FUNCTIONS FOR      Li   2S  Z =  3.0
+
+                Core =  1s(   2)
+       Configuration =  2s( 1.0)
+
+       Level 1: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.25000
+          Spline order (ks)                       4
+          Size of basis  (ns)                    33
+          Maximum radius                     110.29
+          SCF convergence tolerance        1.00D-12
+          Orbital convergence tolerance    1.00D-06
+          Orbital tail cut-off             1.00D-06
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  2.725D-14
+            Orbital diff. =  2.686D-07
+            Tail cut-off  =  1.007D-01
+
+
+
+                        ATOM     Li   TERM    2S 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s    -2.47774087    -4.44314360     3.61195083    0.383      9.254063      24       6
+  2s    -0.19632268    -0.82735696     0.20881478    1.451      1.446019      26      16
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s       6.814830       0.000000     2.685031  0.57312524    0.446803
+  2s       0.166394       0.000000     0.345391  3.87367043   17.738531
+
+
+       TOTAL ENERGY (a.u.)            -7.432724298863512
+                     Kinetic           7.432716438586835
+                     Potential       -14.865440737450350
+                     Ratio            -2.000001057524088
+
+       Level 2: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.12500
+          Spline order (ks)                       6
+          Size of basis  (ns)                    54
+          Maximum radius                      41.70
+          SCF convergence tolerance        1.00D-15
+          Orbital convergence tolerance    1.00D-09
+          Orbital tail cut-off             1.00D-09
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  3.465D-15
+            Orbital diff. =  2.604D-12
+            Tail cut-off  = -5.896D-09
+
+
+
+                        ATOM     Li   TERM    2S 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s    -2.47774149    -4.44314517     3.61195598    0.383      9.260370      49      12
+  2s    -0.19632283    -0.82735771     0.20881496    1.451      1.446801      53      30
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s       6.824123       0.000000     2.685034  0.57312493    0.446803
+  2s       0.166574       0.000000     0.345391  3.87366374   17.738462
+
+
+       TOTAL ENERGY (a.u.)            -7.432726930728231
+                     Kinetic           7.432726930728234
+                     Potential       -14.865453861456470
+                     Ratio            -2.000000000000000

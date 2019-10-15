@@ -1,0 +1,104 @@
+
+
+
+
+
+
+
+                      ===========================================
+                      S P L I N E  H A R T R E E - F O C K : 2010
+                      ===========================================
+
+
+
+       Level  1
+       -----
+
+       Total energy from initial estimates =     -2.812499031825
+
+       Iteration 1.01
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -0.966269551082      4.8956835784    1.38D-01      20
+
+          SCF convergence (diff vs tol)            1.64D-02    1.00D-12
+          Orbital convergence (diff vs tol)        1.38D-01    1.00D-06
+          Tail cut-off (orbital nwf)               9.62D-06    1.00D-06
+       Total energy =     -2.859392877255
+
+       Iteration 1.02
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -0.918155544133      4.7495732548    2.26D-02      20
+
+          SCF convergence (diff vs tol)            7.99D-04    1.00D-12
+          Orbital convergence (diff vs tol)        2.26D-02    1.00D-06
+          Tail cut-off (orbital nwf)               1.50D-05    1.00D-06
+       Total energy =     -2.861678857904
+
+       Iteration 1.03
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -0.917955258608      4.7498802513    2.15D-04      20
+
+          SCF convergence (diff vs tol)            6.01D-08    1.00D-12
+          Orbital convergence (diff vs tol)        2.15D-04    1.00D-06
+          Tail cut-off (orbital nwf)               1.46D-05    1.00D-06
+       Total energy =     -2.861679029767
+
+       Iteration 1.04
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -0.917955281034      4.7498803460    3.35D-07      20
+
+          SCF convergence (diff vs tol)            6.21D-16    1.00D-12
+          Orbital convergence (diff vs tol)        3.35D-07    1.00D-06
+          Tail cut-off (orbital nwf)               1.46D-05    1.00D-06
+       Total energy =     -2.861679029767
+
+          The first phase of Level 1 has converged
+          it_max for the second phase set to 0
+
+       Refined grid orbitsl
+            1s   max. diff.  3.03D-05  at r =   12.29
+
+       Level  2
+       -----
+
+       Total energy from initial estimates =     -2.861679386001
+
+       Iteration 1.01
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -0.917955762965      4.7532960375    2.84D-04      41
+
+          SCF convergence (diff vs tol)            2.13D-07    1.00D-15
+          Orbital convergence (diff vs tol)        2.84D-04    1.00D-09
+          Tail cut-off (orbital nwf)               8.17D-08    1.00D-09
+       Total energy =     -2.861679995612
+
+       Iteration 1.02
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -0.917955562856      4.7532958731    5.74D-08      41
+
+          SCF convergence (diff vs tol)            5.74D-15    1.00D-15
+          Orbital convergence (diff vs tol)        5.74D-08    1.00D-09
+          Tail cut-off (orbital nwf)               8.17D-08    1.00D-09
+       Total energy =     -2.861679995612
+
+          The first phase of Level 2 has converged
+          it_max for the second phase set to 2
+
+       Iteration 2.01
+       ----------------
+          SCF convergence (diff vs tol)            1.55D-14    1.00D-15
+          Orbital convergence (diff vs tol)        6.30D-15    1.00D-09
+          Tail cut-off (orbital nwf)               8.17D-08    1.00D-09
+       Total energy =     -2.861679995612

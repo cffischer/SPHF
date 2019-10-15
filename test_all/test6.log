@@ -1,0 +1,88 @@
+
+
+       HARTREE-FOCK WAVE FUNCTIONS FOR      Mg   1D  Z = 12.0
+
+                Core =  1s(   2)  2s(   2)  2p(   6)
+       Configuration =  3s( 1.0)  3d( 1.0)
+
+       Level 1: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.25000
+          Spline order (ks)                       4
+          Size of basis  (ns)                    36
+          Maximum radius                      53.85
+          SCF convergence tolerance        1.00D-12
+          Orbital convergence tolerance    1.00D-06
+          Orbital tail cut-off             1.00D-06
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  1.425D-16
+            Orbital diff. =  3.533D-05
+            Tail cut-off  =  1.272D-04
+
+
+
+                        ATOM     Mg   TERM    1D 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s   -49.24684683   -71.90072850    67.27389144    0.514     80.233307      26       6
+  2s    -3.97613365   -16.54795878     8.73762549    3.312     20.270459      28      14
+  2p    -2.49345030   -15.68030018     7.76732533    4.686     51.589732      29      14
+  3s    -0.43173926    -4.72531442     0.74586235    7.240      4.628957      33      21
+  3d    -0.05494460    -1.25553410     0.05362653   11.017      0.077792      35      27
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s     512.270710       0.000000    11.597885  0.13059570    0.022957
+  2s      32.697707       0.000000     2.107132  0.69058780    0.571580
+  2p       0.000000      24.975076     1.953969  0.68363480    0.594553
+  3s       1.705126       0.000000     0.455931  2.83622119    9.217610
+  3d       0.000000       0.002423     0.109097 10.68026548  130.105102
+
+
+       TOTAL ENERGY (a.u.)          -199.426685393701500
+                     Kinetic         199.426474678239300
+                     Potential      -398.853160071940800
+                     Ratio            -2.000001056607266
+
+       Level 2: HF_parameters 
+       ----------------------
+          Step-size (h)                     0.12500
+          Spline order (ks)                       6
+          Size of basis  (ns)                    72
+          Maximum radius                      86.86
+          SCF convergence tolerance        1.00D-15
+          Orbital convergence tolerance    1.00D-09
+          Orbital tail cut-off             1.00D-09
+          Orbitals varied                       all
+
+       Convergence (latest difference)
+                SCF diff. =  1.425D-16
+            Orbital diff. =  9.672D-10
+            Tail cut-off  =  8.803D-09
+
+
+
+                        ATOM     Mg   TERM    1D 
+
+  nl        E(nl)         I(nl)         KE(nl)       S(nl)      Az(nl)      MAXR    MAXP
+  1s   -49.24686091   -71.90075880    67.27406618    0.514     80.282358      54      11
+  2s    -3.97613652   -16.54797667     8.73763769    3.312     20.278262      61      27
+  2p    -2.49344710   -15.68030258     7.76732335    4.686     52.028169      63      26
+  3s    -0.43174005    -4.72532005     0.74577748    7.240      4.629914      65      39
+  3d    -0.05494465    -1.25553518     0.05362657   11.017      0.087292      71      51
+
+
+  nl       Delta(r)        1/R**3        1/R          R          R**2
+  1s     512.897262       0.000000    11.597902  0.13059547    0.022957
+  2s      32.722887       0.000000     2.107135  0.69058664    0.571578
+  2p       0.000000      24.975065     1.953969  0.68363462    0.594552
+  3s       1.705831       0.000000     0.455925  2.83621193    9.217544
+  3d       0.000000       0.002423     0.109097 10.68023803  130.104314
+
+
+       TOTAL ENERGY (a.u.)          -199.426751894065700
+                     Kinetic         199.426751894072200
+                     Potential      -398.853503788137900
+                     Ratio            -1.999999999999968

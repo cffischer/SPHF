@@ -1,0 +1,9 @@
+
+rm hf_param
+rm bsw.*
+sphf_all << EOF > out5
+F 2P 9.0
+1s  2s
+2p(5)
+all
+EOF

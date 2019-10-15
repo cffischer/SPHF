@@ -1,0 +1,151 @@
+
+
+
+
+
+
+
+                      ===========================================
+                      S P L I N E  H A R T R E E - F O C K : 2010
+                      ===========================================
+
+
+
+       Level  1
+       -----
+
+       Total energy from initial estimates =    -96.365946191279
+
+       Iteration 1.01
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -28.898383978495     51.9776850705    2.06D-02      24
+           2s     -2.566007009318     13.7462059688    1.94D-01      26
+           2p     -1.562074432255     26.4398723868    8.45D-01      26
+
+          SCF convergence (diff vs tol)            2.09D-02    1.00D-12
+          Orbital convergence (diff vs tol)        8.45D-01    1.00D-06
+          Tail cut-off (orbital nwf)               2.61D-06    1.00D-06
+       Total energy =    -98.425055576664
+
+       Iteration 1.02
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -24.778466943506     51.4901928253    1.07D-02      23
+           2s     -1.174327557388     10.6867698926    2.08D-01      27
+           2p     -0.465008241396     16.1601469508    3.13D-01      29
+
+          SCF convergence (diff vs tol)            4.44D-03    1.00D-12
+          Orbital convergence (diff vs tol)        3.13D-01    1.00D-06
+          Tail cut-off (orbital nwf)               1.20D-06    1.00D-06
+       Total energy =    -98.864391539315
+
+       Iteration 1.03
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -27.634685412016     51.7806871587    6.91D-03      24
+           2s     -1.987888415648     12.7410554556    1.65D-01      27
+           2p     -0.728256888883     20.3180973469    1.79D-01      28
+
+          SCF convergence (diff vs tol)            5.22D-03    1.00D-12
+          Orbital convergence (diff vs tol)        1.79D-01    1.00D-06
+          Tail cut-off (orbital nwf)               1.73D-05    1.00D-06
+       Total energy =    -99.383381422909
+
+       Iteration 1.04
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -26.316402975659     51.6684533777    2.64D-03      24
+           2s     -1.605016305595     12.0069136633    5.25D-02      27
+           2p     -0.728137869701     20.4043749426    2.10D-02      28
+
+          SCF convergence (diff vs tol)            2.60D-04    1.00D-12
+          Orbital convergence (diff vs tol)        5.25D-02    1.00D-06
+          Tail cut-off (orbital nwf)               2.22D-06    1.00D-06
+       Total energy =    -99.409242228598
+
+       Iteration 1.05
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -26.381386702843     51.6755637049    1.36D-04      24
+           2s     -1.574811862425     11.9666928416    2.87D-03      26
+           2p     -0.729864949482     20.4243004686    1.03D-03      27
+
+          SCF convergence (diff vs tol)            7.43D-07    1.00D-12
+          Orbital convergence (diff vs tol)        2.87D-03    1.00D-06
+          Tail cut-off (orbital nwf)               2.89D-05    1.00D-06
+       Total energy =    -99.409316070275
+
+          The first phase of Level 1 has not converged
+
+       Iteration 2.01
+       ----------------
+          SCF convergence (diff vs tol)            6.37D-09    1.00D-12
+          Orbital convergence (diff vs tol)        3.11D-04    1.00D-06
+          Tail cut-off (orbital nwf)               2.88D-05    1.00D-06
+       Total energy =    -99.409316703737
+
+       Iteration 2.02
+       ----------------
+          SCF convergence (diff vs tol)            7.15D-16    1.00D-12
+          Orbital convergence (diff vs tol)        6.13D-09    1.00D-06
+          Tail cut-off (orbital nwf)               2.88D-05    1.00D-06
+       Total energy =    -99.409316703737
+
+       Refined grid orbitsl
+            1s   max. diff.  8.30D-05  at r =    2.73
+            2s   max. diff.  7.74D-05  at r =   12.93
+            2p   max. diff.  3.75D-05  at r =   12.93
+
+       Level  2
+       -----
+
+       Total energy from initial estimates =    -99.409331202572
+
+       Iteration 1.01
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -26.382763886663     51.7075806945    3.29D-04      50
+           2s     -1.572535447463     11.9673804567    5.27D-04      55
+           2p     -0.730017417939     20.6053117736    2.93D-04      55
+
+          SCF convergence (diff vs tol)            1.83D-07    1.00D-15
+          Orbital convergence (diff vs tol)        5.27D-04    1.00D-09
+          Tail cut-off (orbital nwf)               4.10D-08    1.00D-09
+       Total energy =    -99.409349386692
+
+       Iteration 1.02
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s    -26.382760159956     51.7075807372    1.80D-08      50
+           2s     -1.572534834697     11.9673784866    6.33D-07      53
+           2p     -0.730017520325     20.6053135359    4.56D-08      55
+
+          SCF convergence (diff vs tol)            1.39D-14    1.00D-15
+          Orbital convergence (diff vs tol)        6.33D-07    1.00D-09
+          Tail cut-off (orbital nwf)               4.10D-08    1.00D-09
+       Total energy =    -99.409349386693
+
+          The first phase of Level 2 has converged
+          it_max for the second phase set to 2
+
+       Iteration 2.01
+       ----------------
+          SCF convergence (diff vs tol)            1.23D-14    1.00D-15
+          Orbital convergence (diff vs tol)        1.42D-08    1.00D-09
+          Tail cut-off (orbital nwf)               4.10D-08    1.00D-09
+       Total energy =    -99.409349386693
+
+       Iteration 2.02
+       ----------------
+          SCF convergence (diff vs tol)            2.57D-15    1.00D-15
+          Orbital convergence (diff vs tol)        6.54D-15    1.00D-09
+          Tail cut-off (orbital nwf)               4.10D-08    1.00D-09
+       Total energy =    -99.409349386693

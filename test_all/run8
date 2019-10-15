@@ -1,0 +1,9 @@
+
+rm hf_param
+rm bsw.*
+sphf_all << EOF > out8
+Ac 2P 89.
+[Rn]
+7s(2)7p(1)
+all
+EOF

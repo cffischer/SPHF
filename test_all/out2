@@ -1,0 +1,165 @@
+
+
+
+
+
+
+
+                      ===========================================
+                      S P L I N E  H A R T R E E - F O C K : 2010
+                      ===========================================
+
+
+
+       Level  1
+       -----
+
+       Total energy from initial estimates =     -7.294906939923
+
+       Iteration 1.01
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -2.653183908652      9.3652714152    7.79D-02      24
+           2s     -0.196218207967      1.4042831824    1.95D+00      26
+
+          SCF convergence (diff vs tol)            1.84D-02    1.00D-12
+          Orbital convergence (diff vs tol)        1.95D+00    1.00D-06
+          Tail cut-off (orbital nwf)              -8.95D-06    1.00D-06
+       Total energy =     -7.431931780038
+
+       Iteration 1.02
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -2.477999387120      9.2539207053    8.26D-03      24
+           2s     -0.196323989378      1.4470059656    8.25D-04      26
+
+          SCF convergence (diff vs tol)            1.07D-04    1.00D-12
+          Orbital convergence (diff vs tol)        8.26D-03    1.00D-06
+          Tail cut-off (orbital nwf)              -8.90D-06    1.00D-06
+       Total energy =     -7.432724273861
+
+       Iteration 1.03
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -2.477739176253      9.2540625104    1.05D-05      24
+           2s     -0.196322688406      1.4460214476    6.49D-06      26
+
+          SCF convergence (diff vs tol)            3.36D-09    1.00D-12
+          Orbital convergence (diff vs tol)        1.05D-05    1.00D-06
+          Tail cut-off (orbital nwf)              -8.90D-06    1.00D-06
+       Total energy =     -7.432724298863
+
+       Iteration 1.04
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -2.477740868347      9.2540631390    1.26D-07      24
+           2s     -0.196322684671      1.4460185904    2.69D-07      26
+
+          SCF convergence (diff vs tol)            2.72D-14    1.00D-12
+          Orbital convergence (diff vs tol)        2.69D-07    1.00D-06
+          Tail cut-off (orbital nwf)              -8.90D-06    1.00D-06
+       Total energy =     -7.432724298864
+
+          The first phase of Level 1 has converged
+          it_max for the second phase set to 0
+
+       Refined grid orbitsl
+            1s   max. diff.  4.20D-05  at r =    8.19
+            2s   max. diff.  5.31D-05  at r =   60.66
+
+       Level  2
+       -----
+
+       Total energy from initial estimates =     -7.432725336856
+
+       Iteration 1.01
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -2.477742114627      9.2603703092    2.87D-04      51
+           2s     -0.196322830201      1.4468022182    7.57D-04      53
+
+          SCF convergence (diff vs tol)            2.14D-07    1.00D-15
+          Orbital convergence (diff vs tol)        7.57D-04    1.00D-09
+          Tail cut-off (orbital nwf)              -5.90D-09    1.00D-09
+       Total energy =     -7.432726930728
+
+       Iteration 1.02
+       ----------------
+
+           nl           E(nl)               AZ          DPM        MAXR
+           1s     -2.477741487441      9.2603703574    9.48D-08      49
+           2s     -0.196322829592      1.4468014755    1.40D-09      53
+
+          SCF convergence (diff vs tol)            5.74D-15    1.00D-15
+          Orbital convergence (diff vs tol)        9.48D-08    1.00D-09
+          Tail cut-off (orbital nwf)              -5.90D-09    1.00D-09
+       Total energy =     -7.432726930728
+
+          The first phase of Level 2 has converged
+          it_max for the second phase set to 2
+
+       Iteration 2.01
+       ----------------
+          SCF convergence (diff vs tol)            3.47D-15    1.00D-15
+          Orbital convergence (diff vs tol)        2.60D-12    1.00D-09
+          Tail cut-off (orbital nwf)              -5.90D-09    1.00D-09
+       Total energy =     -7.432726930728
+
+       Rydberg orbitals written to bsw.out
+
+      Orbital       Energy         <r>       rmax
+         3s      -0.073801      10.195046      52
+         4s      -0.038405      19.287633      52
+         5s      -0.020259      25.135850      52
+         6s       0.000000       0.573125      48
+         7s       0.001460      24.514495      52
+         8s       0.030611      23.647849      52
+         9s       0.066671      23.096974      52
+        10s       0.109240      22.764482      52
+        11s       0.157929      22.555826      52
+        12s       0.213015      22.044024      52
+        13s       0.276837      21.538937      52
+        14s       0.345121      23.574833      52
+        15s       0.414920      20.430304      52
+        16s       0.523429      14.959498      52
+        17s       0.679673      12.324178      52
+        18s       0.887186      10.591001      52
+        19s       1.157341       9.217010      52
+        20s       1.506670       8.060134      52
+        21s       1.956856       7.064693      52
+        22s       2.535714       6.200427      52
+        23s       3.278667       5.446960      52
+        24s       4.230702       4.788760      52
+        25s       5.448892       4.213171      52
+        26s       7.005618       3.709482      52
+        27s       8.992676       3.268451      52
+        28s      11.526500       2.882024      52
+        29s      14.754789       2.543166      52
+        30s      18.864903       2.245740      52
+        31s      24.094492       1.984410      52
+        32s      30.744957       1.754552      52
+        33s      39.198482       1.552163      52
+        34s      49.939605       1.373785      52
+        35s      63.582527       1.216427      52
+        36s      80.905680       1.077498      52
+        37s     102.895518       0.954753      52
+        38s     130.801954       0.846236      52
+        39s     166.208574       0.750246      52
+        40s     211.121544       0.665295      52
+        41s     268.082169       0.590083      52
+        42s     340.309523       0.523468      52
+        43s     431.880871       0.464449      52
+        44s     547.959419       0.412147      52
+        45s     695.090778       0.365770      52
+        46s     881.593663       0.324641      52
+        47s    1118.013122       0.288363      52
+        48s    1418.073417       0.256335      52
+        49s    1803.763476       0.225427      52
+        50s    2313.168318       0.200814      52
+        51s    3375.301576       0.077902      52
+        52s   10984.393977       0.025024      52
